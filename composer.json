@@ -1,0 +1,21 @@
+{
+  "name": "rahulsprajapati/wp-cli-db-migrate",
+  "description": "A WP-CLI command to run common migration commands. like: rename db prefix, merge two mu site users table.. etc.",
+  "type": "wp-cli-package",
+  "homepage": "https://github.com/rahulsprajapati/wp-cli-db-migrate",
+  "support": {
+    "issues": "https://github.com/rahulsprajapati/wp-cli-db-migrate/issues"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rahul Prajapati",
+      "email": "rahul.prajapati@live.in",
+      "homepage": "http://rahulprajapati.me"
+    }
+  ],
+  "autoload": {
+    "files": [ "wp-cli-db-migrate.php" ]
+  }
+}
+
