@@ -5,6 +5,12 @@ A WP-CLI command to run common migration commands. like: rename db prefix, merge
 
 #### ⚠️ Note: Take database backup before running this commands. If some error occurs it might break your site. 
 
+### Install WP-CLI Package
+
+```bash
+wp package install rahulsprajapati/wp-cli-db-migrate
+```
+
 ## Commands
 
 ### Rename Database Tables :
